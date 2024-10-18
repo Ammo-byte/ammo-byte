@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Professional Experience: I’ve interned twice as a Data Science intern at TD Bank and once as an Actuarial intern at Desjardins.<br>🎓 Academic Pursuits: Currently studying Statistics with a minor in Computer Science at the University of Waterloo.<br>🤖 Projects & Goals: Passionate about creating cool AI and ML projects, with a focus on applying advanced techniques to solve real-world problems.<br>🧠 Currently Learning: Deepening my understanding of neural networks and exploring the Keras and PyTorch libraries for advanced AI development.<br>🎯 Fun Fact: When I’m not coding, I’m working on optimizing my bench press and looking for a 2004 E46 BMW 3 Series!
+💻 Professional Experience: I’ve interned twice as a Data Science intern at TD Bank and once as an Actuarial intern at Desjardins.<br>🎓 Academic Pursuits: Currently studying Statistics with a minor in Computer Science at the University of Waterloo.<br>🤖 Projects & Goals: Passionate about creating cool AI and ML projects, with a focus on applying advanced techniques to solve real-world problems.<br>🎯 Fun Fact: When I’m not coding, I’m working on optimizing my bench press and looking for a 2004 E46 BMW 3 Series!
 
 
 ## 🌐 Socials:
